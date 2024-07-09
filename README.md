@@ -1,0 +1,1 @@
+Objetivando estudar a integração de métodos de machine learning e deep learning em sistemas de detecção de intrusão, estudamos e reproduzimos o modelo proposto pelo artigo "TMG-GAN: Generative Adversarial Networks-Based Imbalanced Learning for Network Intrusion Detection"
